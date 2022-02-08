@@ -1,3 +1,3 @@
 # Olá-Mundo
 
-## Revisando conceitos de Git e GitHub
+## Revisando conceitos de Git e GitHub.
